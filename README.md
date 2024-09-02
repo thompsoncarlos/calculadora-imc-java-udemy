@@ -1,7 +1,7 @@
 # Projeto Calculadora de IMC
 
 ## Description
-Este projeto foi desenvolvido seguindo o curso: Java 22: Aprenda POO + Componentes Gráficos + Projetos Incríveis para Iniciantes. Tudo ensinado com Amor!, do Professor Eng. Arnaldo Souza.
+Este projeto foi desenvolvido seguindo o curso: [Java 22: Aprenda POO + Componentes Gráficos + Projetos Incríveis para Iniciantes. Tudo ensinado com Amor!](https://www.udemy.com/share/10brPj3@WJAnjwgyy1RSox-juUhmtjHXWBFtEGYmRwkPG50QM_tUTyZbE_XxWbJTanuELq68/), do Professor Eng. Arnaldo Souza.
 
 ### Tabela de classificação de IMC
 
